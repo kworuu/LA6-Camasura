@@ -14,6 +14,3 @@ public class Main {
         });
     }
 }
-
-
-C:\Users\andre\OneDrive\Documents\Java_codes\LA6-Camasura
